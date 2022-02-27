@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons ancient priviledges unvailed or An extract taken out of the principall charters of London, confirmed by many acts of Parliament, which are still in force. By which appeareth, that the free-men of the Citie of London have their liberty to chuse yearly, or oftner (if need be) a major, two sheriffs, four treasurers, two bridge-masters, chamberlane, common clark, common sergeant, of the city aforesaid, and to remove them at pleasure. That the free-men of wards have a right, yearly to chuse their aldermen, and that the same aldermen are not to bee chosen the next yeere. These and many other particulars of the long concealed rights of the free-men of London, will most evidently appear in the ensuing relation.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88494</idno>
+            <idno type="STC">Wing L2919</idno>
+            <idno type="STC">Thomason 669.f.13[23]</idno>
+            <idno type="STC">ESTC R210955</idno>
+            <idno type="EEBO-CITATION">99869703</idno>
+            <idno type="PROQUEST">99869703</idno>
+            <idno type="VID">162918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162918)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons ancient priviledges unvailed or An extract taken out of the principall charters of London, confirmed by many acts of Parliament, which are still in force. By which appeareth, that the free-men of the Citie of London have their liberty to chuse yearly, or oftner (if need be) a major, two sheriffs, four treasurers, two bridge-masters, chamberlane, common clark, common sergeant, of the city aforesaid, and to remove them at pleasure. That the free-men of wards have a right, yearly to chuse their aldermen, and that the same aldermen are not to bee chosen the next yeere. These and many other particulars of the long concealed rights of the free-men of London, will most evidently appear in the ensuing relation.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Dated at end: September 28. 1648.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Municipal charters --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  Charters, grants, privileges --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="extract">
+            <pb facs="tcp:162918:1" rendition="simple:additions"/>
+            <head>Londons ancient Priviledges unvailed,
+OR
+An Extract taken out of the principall Charters of London, confirmed by many Acts of
+Parliament, which are ſtill in force.</head>
+            <p>By which appeareth,</p>
+            <p>That the Free-men of the Citie of London have their liberty to chuſe Yearly, or oftner (if need be) a <hi>Major,</hi> two <hi>Sheriffs,</hi> four
+<hi>Treaſurers,</hi> two <hi>Bridge-Maſters, Chamberlane, common Clark, common Sergeant,</hi> of the City aforeſaid, and to remove them at Pleaſure.</p>
+            <p>That the Free-men of Wards have a Right, Yearly to chuſe their <hi>Aldermen;</hi> and that the ſame <hi>Aldermen</hi> are not to bee choſen the next Yeare.</p>
+            <p>Theſe and many other particulars of the long concealed Rights of the Free-men of London, will moſt evidently appear in the enſuing Relation.</p>
+            <p>The firſt Charter granted to the Citizens of <hi>London,</hi> was by King <hi>Henry</hi> the first, who Reigned in the Yeer one Thouſand one Hundred.</p>
+            <p>
+               <seg rend="decorInit">H</seg>ENRY By the Grace of God,<note place="margin">148. yeers ſince the firſt Sheriffe of London, this yeer 1648.</note> King of England; Know ye that we have granted to my Citizens of London, to hold Middle ſex by Farm
+for three hundred pounds upon Accompt to Them and their Heirs, of Me and My Heirs, ſo as the ſaid Citizens ſhall appoint a Sheriffe whom they pleaſe of
+themſelves.</p>
+            <p>Alſo granted that all Citizens of London ſhall be diſcharged and free, and all their goods throughout all England, and Sea-ports, of Toll, Paſſage and Laſtage,
+and all other Cuſtoms; and if any ſhall take Toll or Cuſtom of my Citizens of London, the City may take of the Burrough, or of the Town where the Toll or
+Cuſtom was taken, ſo much as the man of London for Toll gave, and moreover for his damage which he ſhall receive, And that the Citizens of London may
+have their Chaſes to chaſe; to wit, in Chiltre and Middleſex, and Surrey.</p>
+            <p>
+               <hi>King</hi> Henry <hi>the ſecond confirmed the ſaid Charter, and granted to the Citizens of London, that</hi> all of them be free and diſcharged of Bridge-Toll, and Childewits, of Jerefgreen,
+and of Scotale.</p>
+            <p>Richard <hi>the firſt confirmed the ſaid Charters, and granted,</hi> That if any in all England ſhall take Toll or Cuſtom of the men of London, after that ſuch an one fail to do right,
+the Sheriffe of London may take a Diſtreſs thereupon at London. <hi>Alſo the ſame King in his ſecond Charter, grants in theſe words.</hi>
+            </p>
+            <p>Be it known unto you all, that We for the health of Our ſoul, and for the health of the ſoul of King <hi>Henry</hi> Our Father, and the ſouls of Our Predeceſſors, and alſo for the com<g ref="char:EOLhyphen"/>mon
+profit of Our City of London, and Our whole Realm of England, granted and firmly commanded, that all the Weers which be in the Thames be removed, whereſoever in
+Thames they be, and from henceforth Weers be not ſet any where in Thames: We have alſo quite claimed all that which the Keepers of Our Tower of London uſe yeerly to take
+of the foreſaid Weers.</p>
+            <p>
+               <hi>King</hi> John <hi>in his firſt Charter, Confirmed all the foreſaid Charters: and in his ſecond Charter, which was in the yeer 1205. granted to the Citizens of London,</hi> That they of
+themſelves may make two Sheriffs whom they will, and remove them when they pleaſe; and preſent thoſe whom they make Sheriffs to Our Barons of the Exchequer: and if thoſe
+for the time being, ſhall be appointed Sheriffs, ſhall commit any offence wherefore they ought to incur the merce of money, or be amerced; ſhall be adjudged or condemned in no
+more, but in forfeiture of twenty pounds, and that without loſs or prejudice of other Citizens, if the Sheriffs be not able to pay the forfeiture: but if they commit any offence for
+which they ought to undergo the Tryal of Life or Member, they are to be adjudged as they ought, by the law of the City; but of that which belongs to the Sheriffwick, the Sheriffs
+ſhall anſwer in Our Exchequer, before Our Barons; ſaving to the ſaid Sheriffs the liberties which other Citizens of London have.</p>
+            <p>
+               <hi>King</hi> John <hi>in his fourth Charter,</hi>
+               <note place="margin">433 yeers ſince the firſt Maior of London, this 1648.</note> 
+               <hi>in the ſixteenth yeer of His Reigne, which was in the yeer 1215. granted to our Barons of our City of London,</hi> That they may of themſelves chuſe
+yeerly a Maior who is diſcreet, and fit for Government of the City, ſo that (when he ſhall be choſen, he ſhall be preſented to Vs, or to Our Juſtice, if We be not preſent, and to ſwear
+to Vs fidelity; and that they may at the end of the yeer remove him, and appoint another or continue him if they pleaſe. <hi>And King</hi> Henry <hi>the third confirmed the ſaid Charter,
+which was made by his Father King</hi> John.</p>
+            <p>
+               <hi>King</hi> Edward <hi>the ſecond in the yeer</hi> 1338.<note place="margin">The Livery-men had not a Being until within this hundred yeers.</note> 
+               <hi>upon the Petition of the Maior and Citizens granted thirty particulars of their Deſires in their Petition: the firſt,</hi> That the Maior and
+Sheriffs of the ſaid City, be choſen by the Citizens of the ſame City, and not otherwiſe; and that the Maior of the City aforeſaid, ſhall not abide in his Office at one time, above one
+yeer, and none of the Sheriffs have but two Clerks, and two ſervants, in regard of that Office, and that they take ſuch Clerks and ſerjeants at their own peril, for whom they will anſwer;
+and that the Maior of the City aforeſaid, while he is Maior, hold no other Office belonging to the City, then the Office of the Majoralty of the ſame City, nor any other place then
+thoſe which according to the ancient Cuſtom of the ſaid City, as Maior he ought to hold.</p>
+            <p>And that the Aldermen of the ſaid City from yeer to yeer, and eſpecially upon the day of St <hi>Gregory</hi> the Pope, by the ſaid Communalty be removable, and being removed, may not
+be choſen again for the enſuing yeer, but inſteed of thoſe that be removed, others be choſen by the ſame VVards of which the Aldermen ſo removed were; and that all Tallages or
+Aids for the uſe of Vs, or for the ſtate or profit of the City from henceforth in the ſame to be aſſeſſed, after they be aſſeſſed by men of the VVards choſen or deputed for that end,
+may not be encreaſed or raiſed by the Maior, Aldermen, or others.</p>
+            <p>And that the monies ariſing from ſuch Tallages or Aids be delivered into the cuſtody of four honeſt Commoners of the City aforeſaid for that end, to be choſen by the Commonalty
+of the ſaid Citie to be paid over by the teſtimony of the ſame four men, ſo that the ſaid four men may be able to informe the ſaid Commonalty for what profit and what uſes the ſaid
+monies went.</p>
+            <p>And that ſtrangers or others if they be of no trade, then they may not be made <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the ſaid Cittie without the aſſent of the Commonalty of the ſaid Cittie, and who againſt their
+Oaths in this behalf or againſt the State of the Cittie have acted and been lawfully convicted ſhall forfeit their freedom of the Cittie: and that every year inquiſition ſhall be made if
+any Free man of the ſaid City ſhall ſell in the City the Goods of others who are not free; by calling thoſe Goods their own: thoſe that ſhall be lawfully convicted do forfeit their Freedom
+of the City.</p>
+            <p>And that the main Common-Seal of the City aforeſaid, be in the cuſtody of two Aldermen and two Commoners to be choſen for it by the Commons of the City, and that the ſaid
+Seal be not denyed to the poor nor rich Commoners of the City aforeſaid, whenſoever they ſtand in need of it; and that nothing be taken for the ſetting to of the ſaid Seal.</p>
+            <p>And that Weights and Meaſures of Marchandize to be meaſured betwixt Marchant and Marchant, of which the profit ariſing, and the cognizance of the ſame belong to the Common<g ref="char:EOLhyphen"/>alty
+of the ſaid City remain in the keeping of honeſt men of the City, skillful in that calling, and to be choſen for this by the Commonalty of the City, to be kept at the pleaſure of the
+ſaid commonalty, and it to be truſted by no means to any other but to ſuch ſo to be choſen.</p>
+            <p>And that Marchants who are not of the freedom of the City aforeſaid may not ſell any Wines or other wares within the City or Suburbs thereof by retale.</p>
+            <p>And that the keeping of the Bridge of the City aforeſaid, and the Rents and profits belonging to the ſaid Bridge be committed to two honeſt and able men of the City aforeſaid, o<g ref="char:EOLhyphen"/>thers
+then Aldermen to be choſen for that purpoſe, by the Commonalty of the ſaid City to be kept at the pleaſure of the Commonalty of the ſaid City, who are to anſwer to the Com<g ref="char:EOLhyphen"/>monalty
+of the ſaid City, for the ſame.</p>
+            <p>And that the Chamberlane, common Clark, common Serjeant of the City aforeſaid be choſen by the Commonalty of the ſaid City; and removed at their pleaſure.</p>
+            <p>And that the goods of Aldermen of the ſaid City be taxed as the goods of other Citizens, in Aids, Tallages, and other Contributions hapening in the City, by men of the Wards,
+where theſe Aldermen abide.</p>
+            <p>Moreover, We being willing upon their Petition, to confer more ample favour upon the Major, Aldermen, and Cittizens, have granted to them for us and our heirs, that the Major,
+Aldermen, Citizens and Commonalty of the Commons of the City aforeſaid, and their Heirs and Succeſſours, for the neceſſities and profits of our ſaid City, by their Common conſent,
+among themſelves, may aſſeſs Tallage upon the goods within the City, as well upon Rents as other goods: and as well upon Trades as any other way which they ſhall ſee expedient;
+and the ſame to levy without let of us, or our Heirs, or our Miniſters whomſoever: and that the monies ariſing out of ſuch Tallages remain in the cuſtody of four honeſt and lawful
+men of the City to be choſen for it by the Commonalty of the Citie, and expended out of their cuſtody, for the neceſſities and profits of the ſaid Citie, and not otherwiſe: In teſtimony
+whereof, we have cauſed to be made theſe our letters, patents: Witneſſe our ſelf, at York the eighth day of June, the twelft year of our Raign.</p>
+            <p>By all which Premiſſes it is evident, according to the Expreſs words of the Charters, That it is the Rights of the Free-men of London to chuſe the Maior, two Sheriffs, four Treaſu<g ref="char:EOLhyphen"/>rers,
+the Chamberlain, common Clerk, common Serjeant of the City, and to remove them at their pleaſure: And it is alſo the liberty of every Freeman of every Ward, to have his
+voice in chuſing the Alderman, and to remove them every yeer, and being removed, others to be choſen by the ſaid Freemen of the ſaid Ward. It is alſo the Rights of every Freeman, as
+they are Members of the Corporation, to have his voice in chuſing the Parliament men for the City.</p>
+            <p>And although it may be objected, <hi>that the Free-men of the City are ſo numerous, that it is unpoſſible they ſhould meet together at one place:</hi> Yet this they may do, (though they
+cannot all with conveniency meet) which is in the next place moſt equal, that all the Free-men in every Ward may meet together, and make choice of a number of men out of themſelves,
+who they may depute as their Truſtees for that end, all Majors, Sheriffs, and Publike Officers, choſen otherwiſe than aforeſaid, their choice is null, and ought not to be obeyed: For a Free-man
+of London is not bound to obey any Officer thereof, unleſs he have a voice in the ſaid choice.</p>
+            <p>But contrary to the ſaid Charters and Liberties of every Free Citizen of London, a corupt party in the City takes upon them to ingroſs the Choiſe and Rights of the reſt of the Free-men,
+and doth nominate the aforeſaid Officers and the Aldermen, who keeps that Office during life, if they pleaſe they chuſe one of thoſe the Livery-men preſents to be Maior or Sheriffs: ac<g ref="char:EOLhyphen"/>cording
+to their pleaſure moſt unjuſtly with-held, even by force from the Citizens: The Maſter, Wardens, and Livery-men of all Companies in London, unleſs it be Merchant-Taylors, are
+of late yeers unjuſtly choſen; for by the Charters of the Companies, the Maſter, Wardens, and Livery-men are to be choſen by the Comunalty of the ſaid Company; Contrary thereunto
+of late yeers, twelve or fifteen men of the ſaid Company, by uſurpation made Orders and Ordinances, and preſent them in the Name of the Comunalty, although without the view,
+knowledge, or conſent of the Comunalty, to the Lord chief Juſtice, who with other two Juſtices did aſſigne them, and by this unjuſt means they proceed; and three or four, or the major
+part of twelve men chuſeth the Maſter, Wardens, and Livery-men, and ſet a Fine, upon ſome men twenty, and ſome thirty pounds, to be paid at the firſt entrance of the ſaid Livery-man,
+all which is contrary to the Charter; and this money, and the profit of the Companies Stock, they imbezel in Feaſting, and in other unjuſt waies, on purpoſe to keep the Comunalty from
+their Rights, the Comunalty themſelves who have right by their Charter to chuſe their Livery-men, and to make Orders and Ordinances, cannot make any Order to diſanul any part of
+the ſaid Charter, although the chief Juſtice hand be procured unto it.</p>
+            <p>And whereas it hath bin of late yeers uſed, that when there is a Sheriffe or Alderman to be choſen, enquiry is made for the Richeſt men in the City, which is quite contrary to the Char<g ref="char:EOLhyphen"/>ter,
+for mention is made to chuſe honeſt men fit for Government, and not to chuſe men becauſe they are rich, as it is frequently practiſed in moſt parts of the Land; By the Charter of <hi>Henry</hi>
+the third, the King makes a doubt of the two Sheriffs of London not worth 20. <hi>l.</hi> And in all juſt Governments men have bin choſen for their honeſty; poor men from the Plough have bin
+choſen to the highest Office in the Land becauſe they were honeſt: It is well known that moſt of the great rich men of the City and Country, got moſt of their Eſtates (or their Parents or
+Friends for them) unjuſtly, either by Patent, or Monopolizing, or ingroſſing, or by great gifts from Kings or other great men; whoſe creatures they were, to do his work right or wrong;
+theſe men are not fit to be choſen into place of Truſt by any honeſt man; onely uſurpers and robbers of the people of their Rights will endeavour to chuſe ſuch men.</p>
+            <p>There is a great deal of juſtneſs and equity in the Charters of London in this point; that all the Officers of the City are to be choſen once a yeer, and oftner if need be; and the next yeer
+others to be choſen in their ſteed, It would be happy for this poor Nation (and never will till then) that a juſt government be ſet up, wherein all men may be equally bound, and that all pub<g ref="char:EOLhyphen"/>like
+Officers throughout the Land be choſen freely every yeer, or oftner if need be; for uſually all or moſt men turn Tyrants if they be in Publike Office above one yeer.</p>
+            <p>And now, O all ye Citizens of London that have any goodneſs in you, ſtand up like honeſt men for your Rights and Liberties, and redeem them out of the hands of unreaſonable u<g ref="char:EOLhyphen"/>ſurping
+men: Is it a work of mercy to help your neighbours ox even on the Sabbath day out of the ditch? How much more is it for you to ſtand up like men, and help to do that
+great work of mercy, well-pleaſing to God, in aſſiſting to the utmoſt for your ſelves and neighbours both in the City and Country, that you may be free from all tyrannie, of what
+kind ſoever? and in your ſo doing, you may expect the aſſiſtance of God, and all good men, and the bleſſing of God will attend you in ſo good a work. <hi>September</hi> 28. 1648.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
